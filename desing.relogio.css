@@ -1,0 +1,29 @@
+#h{
+  width: 81px;
+}
+
+body{
+  background-color: #DCDCDC;
+}
+
+input{
+
+  width: 165px;
+}
+
+label{
+  color: #696969;
+}
+
+textarea{
+  width: 165px;
+}
+
+.iniciar{
+  background-color: lightblue;
+  height: 30px;
+  width: 80px;
+  border-radius: 15px;
+  display: inline-block;
+  margin-top: 10px;
+}
